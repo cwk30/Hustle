@@ -14,8 +14,8 @@ Dependencies required:
   
 
 Navigate your terminal to the root folder  
-if on windows:  
-```set FLASK_APP=app.py```  
+if on windows: ```set FLASK_APP=app.py```  
+else: ``` export FLASK_APP=app.py```  
 ```flask run``` to view the webpage  
 
 after coding,  
