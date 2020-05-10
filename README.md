@@ -16,4 +16,11 @@ Dependencies required:
 Navigate your terminal to the root folder
 if on windows:
 ```set FLASK_APP=app.py```
-```flask run```
+```flask run``` to view the webpage
+
+after coding,
+u can use ```git status``` anytime to check what u have yet to stage/commit
+```git add -A``` to stage everything
+```git commit -m "whatever comments u want to put to describe this update"``` to commit the changes
+```git push``` to upload the files to your forked repo
+then send a pull request to merge with the master
